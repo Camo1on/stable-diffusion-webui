@@ -22,7 +22,14 @@ __pycache__
 /webui-user.sh
 /interrogate
 /user.css
+<<<<<<< Updated upstream
 /.idea
 notification.mp3
 /SwinIR
 /textual_inversion
+=======
+scripts/external_masking.py
+GFPGANv1.4.pth
+scripts/txt2mask.py
+SwinIR/003_realSR_BSRGAN_DFOWMFC_s64w8_SwinIR-L_x4_GAN.pth
+>>>>>>> Stashed changes
